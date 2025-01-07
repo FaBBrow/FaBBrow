@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabbrow&label=Profile%20views&color=ff0000&style=flat" alt="fabbrow" /> </p>
 
-- 🔭 I’m currently working on [OpenWorldSurvival](https://github.com/FaBBrow/OpenWorldSurvival)
+- 🔭 I’m currently working on [Match-3-Game](https://github.com/FaBBrow/Match-3-Game)
 
 - 🌱 I’m currently learning **Unity**
 
