@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Match-3-Game](https://github.com/FaBBrow/Match-3-Game)
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Make a Match-3 Game**
 
 - 📫 How to reach me **tunc.oruc59@gmail.com**
 
