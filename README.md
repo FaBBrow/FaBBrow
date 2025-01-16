@@ -2,13 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Tunç Oruç</h1>
-<h3 align="center">A Junior Unity Game Developer From Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp">
+<h3 align="center">A Junior Unity Game Developer From Turkey</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabbrow&label=Profile%20views&color=ff0000&style=flat" alt="fabbrow" /> </p>
 
 - 🔭 I’m currently working on [Match-3-Game](https://github.com/FaBBrow/Match-3-Game)
 
-- 🌱 I’m currently learning **Make a Match-3 Game**
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **tunc.oruc59@gmail.com**
 
