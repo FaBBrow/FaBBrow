@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabbrow&label=Profile%20views&color=ff0000&style=flat" alt="fabbrow" /> </p>
 
-- 🔭 I’m currently working on [Match-3-Game](https://github.com/FaBBrow/Match-3-Game)
+- 🔭 I’m currently working on [Design Patterns](https://github.com/FaBBrow/Design-Patterns)
 
 - 🌱 I’m currently learning **Unity**
 
